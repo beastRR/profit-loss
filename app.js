@@ -1,4 +1,4 @@
-var initialPrice = document.querySelector('#ntial-price');
+var initialPrice = document.querySelector('#intial-price');
 var stockQuantity = document.querySelector('#stocks-quantity');
 var currentPrice = document.querySelector('#current-price');
 var submitBtn = document.querySelector('#submit-btn');
