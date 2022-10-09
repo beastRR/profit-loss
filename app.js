@@ -10,6 +10,7 @@ function submitHandler(){
     var ip = (initialPrice.value);
     var qty = (stockQuantity.value);
     var curr = (currentPrice.value);
+        outputBox.classList.toggle("output-box");
 
     calaculateProfitAndLoss(ip,qty,curr);
 }
